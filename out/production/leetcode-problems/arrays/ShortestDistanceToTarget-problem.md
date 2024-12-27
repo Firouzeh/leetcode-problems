@@ -1,5 +1,4 @@
 # 2515. Shortest Distance to Target String in a Circular Array
-
 # Problem Description
 
 You are given a 0-indexed circular string array `words` and a string `target`. A circular array means that the array's end connects to the array's beginning.
