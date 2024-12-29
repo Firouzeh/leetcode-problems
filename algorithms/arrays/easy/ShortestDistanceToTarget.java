@@ -1,4 +1,4 @@
-package arrays;
+package arrays.easy;
 
 class ShortestDistanceToTarget {
     public int closetTarget(String[] words, String target, int startIndex) {
